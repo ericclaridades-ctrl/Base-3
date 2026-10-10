@@ -6,6 +6,8 @@
 > **Headless, limbless multimodal physical arbitration & topological coherence engine.**  
 > Anchoring Vision-Language Models (VLMs) and Generative AI in deterministic real-world domain physics through Base-3 epistemic consensus.
 ---
+A Note on Domain Agnosticism: Base-3 is a fundamentally domain-agnostic execution substrate capable of governing any spatial, physical, or logical workflow. To make the abstract mathematics of the epistemic triad concrete and observable, this documentation relies heavily on examples from Architecture, Engineering, and Construction (AEC). We utilize construction as our primary illustrative model because its high physical complexity, extreme visual entropy, and mature scheduling processes provide the perfect crucible for demonstrating deterministic AI execution.
+
 1. The Base-3 Philosophy
 Why Binary Logic (Base-2) Collapses in Physical Reality
 Classical computing and current artificial intelligence operate in Base-2—binary epistemological frameworks: True vs False, Prompt vs Completion, Synthetic vs Observed. When applied to complex physical systems (construction sites, aerospace manufacturing, civil infrastructure, and spatial robotics), Base-2 assumptions fail catastrophically:
