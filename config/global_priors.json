@@ -1,0 +1,11 @@
+{
+  "blacklist": [
+    "Unidentified Anomaly",
+    "construction hoist",
+    "tower crane",
+    "climbing formwork system"
+  ],
+  "whitelist": [
+    "perimeter climbing system"
+  ]
+}

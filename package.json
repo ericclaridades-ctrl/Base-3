@@ -1,0 +1,36 @@
+{
+  "name": "@base3/core",
+  "version": "1.0.0",
+  "description": "Headless, limbless multimodal physical arbitration & topological coherence engine (Base-3 Epistemic Triad).",
+  "main": "src/index.js",
+  "bin": {
+    "base3": "./bin/base3.js",
+    "triad": "./bin/base3.js"
+  },
+  "scripts": {
+    "test": "node test/dag-solver.test.js && node test/csv-parser.test.js && node test/probability.test.js && node test/arbitrator.test.js",
+    "example:programmatic": "node examples/scripts/programmatic_run.js",
+    "example:mock": "node examples/scripts/mock_calibration_diff.js"
+  },
+  "keywords": [
+    "base3",
+    "triad-engine",
+    "multimodal-ai",
+    "spatial-coherence",
+    "dag-solver",
+    "topological-arbitration",
+    "vlm-grounding",
+    "physical-reality",
+    "constitutional-ai"
+  ],
+  "author": "REM Systems",
+  "license": "AGPL-3.0-only",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "tasks": [
+    {
+      "id": "TC.1.0",
+      "name": "Deploy Advance Warning Signage (Phase 1)",
+      "durationDays": 2,
+      "date": "2026-06-01",
+      "dept": "Planning",
+      "completed": false
+    },
+    {
+      "id": "TC.2.0",
+      "name": "Position Channelizing Devices (Cones/Barrels)",
+      "durationDays": 3,
+      "date": "2026-06-03",
+      "dept": "Civil",
+      "completed": false
+    },
+    {
+      "id": "TC.3.0",
+      "name": "Activate Variable Message Boards (VMBs)",
+      "durationDays": 1,
+      "date": "2026-06-06",
+      "dept": "MEP",
+      "completed": false
+    },
+    {
+      "id": "TC.4.0",
+      "name": "Establish Northbound Bottleneck Corridor",
+      "durationDays": 4,
+      "date": "2026-06-07",
+      "dept": "Structure",
+      "completed": false
+    },
+    {
+      "id": "TC.5.0",
+      "name": "Deploy Automated Flagger Devices (AFAD)",
+      "durationDays": 2,
+      "date": "2026-06-11",
+      "dept": "MEP",
+      "completed": false
+    },
+    {
+      "id": "TC.6.0",
+      "name": "Open Temporary Bypass Lane to Live Traffic",
+      "durationDays": 1,
+      "date": "2026-06-13",
+      "dept": "Civil",
+      "completed": false
+    },
+    {
+      "id": "TC.7.0",
+      "name": "Monitor Peak Hourly Throughput [Target: 150 Vehicles]",
+      "durationDays": 7,
+      "date": "2026-06-14",
+      "dept": "Planning",
+      "completed": false
+    }
+  ],
+  "links": [
+    { "source": "TC.1.0", "target": "TC.2.0" },
+    { "source": "TC.2.0", "target": "TC.3.0" },
+    { "source": "TC.3.0", "target": "TC.4.0" },
+    { "source": "TC.4.0", "target": "TC.5.0" },
+    { "source": "TC.5.0", "target": "TC.6.0" },
+    { "source": "TC.6.0", "target": "TC.7.0" }
+  ]
+}

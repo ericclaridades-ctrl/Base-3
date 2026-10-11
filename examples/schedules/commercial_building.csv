@@ -1,0 +1,13 @@
+id,name,wbs,startdate,duration,pred,trade
+1.1,Substructure Excavation,Level 0,2026-03-01,5,,Civil
+1.2,Foundation Slabs & Footings,Level 0,2026-03-06,6,1.1,Concrete
+2.1,Ground Floor Columns,Level 1,2026-03-12,4,1.2,Structure
+2.2,Level 1 Suspended Slab,Level 1,2026-03-16,5,2.1,Concrete
+3.1,Level 2 Structural Core,Level 2,2026-03-21,4,2.2,Structure
+3.2,Level 2 Suspended Slab,Level 2,2026-03-25,5,3.1,Concrete
+4.1,Level 3 Structural Core,Level 3,2026-03-30,4,3.2,Structure
+4.2,Level 3 Suspended Slab,Level 3,2026-04-03,5,4.1,Concrete
+5.1,Level 4 Structural Core,Level 4,2026-04-08,4,4.2,Structure
+5.2,Level 4 Suspended Slab,Level 4,2026-04-12,5,5.1,Concrete
+6.1,Roof Level Columns & Slab,Level 5,2026-04-17,6,5.2,Concrete
+7.1,Exterior Curtain Wall Glazing,Facade,2026-04-23,10,6.1,Facade
