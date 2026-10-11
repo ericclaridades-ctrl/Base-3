@@ -217,3 +217,6 @@ The Base-3 epistemic triad, topological volume bleeder, and deterministic invers
 
 **Repository Provenance (Security Warning):** 
 To guarantee mathematical determinism and prevent supply-chain poisoning, you must download and deploy `@base3/core` directly from the official Base-3 repository. We do not audit, verify, or guarantee the safety, physical accuracy, or cryptographic integrity of third-party forks or branched repositories. For enterprise quality and safety assurance, always rely on the canonical source.
+
+A Note from the Founder
+"Intelligence without physical boundaries is a liability. Base-3 is the leash. Build boldly, but build on solid ground. Just make the world safe." — Eric Claridades
