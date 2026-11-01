@@ -1,4 +1,31 @@
-@base3/core
+# Eric Claridades | Founder & Systems Architect at VR Konstrukt Pty Ltd
+
+I am the founder of **VR Konstrukt Pty Ltd** (ACN 696 473 935) and the creator of the **Base-3 Substrate**, a deterministic, low-compute Balanced Ternary engine built to govern high-stakes state transitions across physical and digital territories.
+
+Rather than relying on probabilistic cloud heuristics or replacing decades of mature legacy identity systems, VR Konstrukt builds sovereign, standalone architectures that lock underlying territories to cryptographic behavioral charters.
+
+---
+
+### Core Architecture & Commercial Verticals
+
+* **The Base-3 Substrate (Open Source / AGPLv3):** The foundational Balanced Ternary state machine enforcing the Multiplicative Triadic Law ($T = A \times E \times I \times \Phi$) across `+1` (Chartered), `0` (Drift / Quarantine), and `-1` (Block & Revoke) states.
+* **Base-3 Territory Suite (Proprietary via VR Konstrukt):** Standalone, zero-cloud-latency security appliances across **B3T Mobile**, **B3T Windows**, and **B3T Territory Defender**. Designed as a CAPEX appliance and OEM-licensable engine that operates underneath mature identity stacks.
+* **Sovereign Cognitive Infrastructure (Proprietary via VR Konstrukt):** Whole-of-life deterministic state memory and drift governance for built environments, critical infrastructure, aviation, and logistics.
+
+---
+
+### Published Research & Cryptographic Prior Art (Eric Claridades)
+
+* **Base-3 Territory (B3T) Whitepaper:** [CERN Zenodo DOI: 10.5281/zenodo.23633915](https://doi.org/10.5281/zenodo.23633915)
+* **Cognitive Infrastructure & CMS Category Substrate:** Published via Figshare & Zenodo (2026)
+* **Relational Ecosystem Model (REM) & Mechanistic Core Reality Triad:** Foundational deterministic AI series by Eric Claridades (2026)
+
+---
+
+### B2B OEM Licensing & Inquiries
+All commercial vertical products built on the Base-3 Substrate are licensed exclusively through **VR Konstrukt Pty Ltd**.
+* **Email:** info@vrkonstrukt.com
+* **YouTube:** [VR Konstrukt Pty Ltd Official Channel](https://www.youtube.com/@vrkonstruktptyltd)@base3/core
 ![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-blue.svg)
 ![Runtime: Node >= 18](https://img.shields.io/badge/Node-%3E%3D18.0.0-green.svg)
 ![Architecture: Headless & Limbless](https://img.shields.io/badge/Architecture-Headless_%26_Limbless-purple.svg)
